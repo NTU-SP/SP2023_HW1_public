@@ -1,4 +1,6 @@
-## SP2023_HW1_release
+## SP2023_HW1_public
+#### Assignment Description: https://hackmd.io/@o17Ov-gQSHaIfKt6v4zz-Q/rk0GxsYTh
+
 #### Reminders
 You should not modify content under .github. If caught, you will receive a 0 for this assignment.
 
